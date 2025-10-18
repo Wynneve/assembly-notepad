@@ -1,0 +1,11 @@
+.vscode
+
+*example*
+*.ilk
+*.obj
+*.pdb
+*.res
+*.lnk
+
+*.c
+*.h

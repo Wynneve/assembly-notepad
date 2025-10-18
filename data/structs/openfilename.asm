@@ -1,0 +1,24 @@
+OPENFILENAME struct 8h
+    lStructSize         DWORD           0
+    hwndOwner           HWND            0
+    hInstance           HINSTANCE       0
+    lpstrFilter         LPCTSTR         0
+    lpstrCustomFilter   LPSTR           0
+    nMaxCustFilter      DWORD           0
+    nFilterIndex        DWORD           0
+    lpstrFile           LPSTR           0
+    nMaxFile            DWORD           0
+    lpstrFileTitle      LPSTR           0
+    nMaxFileTitle       DWORD           0
+    lpstrInitialDir     LPCSTR          0
+    lpstrTitle          LPCSTR          0
+    Flags               DWORD           0
+    nFileOffset         WORD            0
+    nFileExtension      WORD            0
+    lpstrDefExt         LPCSTR          0
+    lCustData           LPARAM          0
+    lpfnHook            LPOFNHOOKPROC   0
+    lpTemplateName      LPCSTR          0
+    lpEditInfo          LPEDITMENU      0
+    lpstrPrompt         LPCSTR          0
+OPENFILENAME ends
