@@ -1,6 +1,7 @@
 .vscode
 
 *example*
+*.exe
 *.ilk
 *.obj
 *.pdb
